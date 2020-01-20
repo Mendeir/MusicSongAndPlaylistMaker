@@ -92,7 +92,7 @@ void displaySong()
 
 	std::cout << "\n\n-----Press any key to go back to menu-----";
 
-	system("pause > 0");
+	system("pause > 0"); 
 }
 
 int main()
